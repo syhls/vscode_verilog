@@ -4,7 +4,7 @@
 
 VScode需要安装以下的插件，这样vscode可以更方便的进行Verilog的编辑：
 
-![插件1](.\image\插件1.png)
+<img src=".\image\插件1.png" alt="插件1" />
 
 ### 二、Iverilog环境的搭建
 
@@ -140,19 +140,19 @@ gtkwave wave.vcd
 
 安装vscode插件，如图：
 
-![wavetrace](.\image\wavetrace.png)
+<img src=".\image\wavetrace.png" alt="wavetrace" />
 
 使用方法就是使用vscode打开wave.vcd文件，窗口如下：
 
-![yanshi2](.\image\yanshi2.png)
+<img src=".\image\yanshi2.png" alt="yanshi2" />
 
 然后点击"Add Signals"，双击需要添加的信号即可
 
-![yanshi3](.\image\yanshi3.png)
+<img src=".\image\yanshi3.png" alt="yanshi3" />
 
 滑动滚轮是调节x轴缩放，y轴的缩放以及信号的颜色在此处调整
 
-![yanshi4](.\image\yanshi4.png)
+<img src=".\image\yanshi4.png" alt="yanshi4" />
 
 ## 那么你已经学会使用vscode进行波形仿真了！~~妈妈再也不用担心我电脑存储空间不够没法安装vivado了~~
 
