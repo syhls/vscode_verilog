@@ -4,7 +4,7 @@
 
 VScode需要安装以下的插件，这样vscode可以更方便的进行Verilog的编辑：
 
-![插件1](E:\FPGA_study\github\vscode_verilog\image\插件1.png)
+![插件1](.\image\插件1.png)
 
 ### 二、Iverilog环境的搭建
 
@@ -134,25 +134,25 @@ gtkwave wave.vcd
 
 打开窗口如图，点击div_tb->tb_div_4->依次选择下面的信号，点击下面的insert导入。导入后可以选择左上方的缩放等按键进行调整
 
-<img src="E:\FPGA_study\github\vscode_verilog\image\gtkwave.png" alt="gtkwave"  />
+<img src=".\image\gtkwave.png" alt="gtkwave"  />
 
 ##### 方法2：
 
 安装vscode插件，如图：
 
-![wavetrace](E:\FPGA_study\github\vscode_verilog\image\wavetrace.png)
+![wavetrace](.\image\wavetrace.png)
 
 使用方法就是使用vscode打开wave.vcd文件，窗口如下：
 
-![yanshi2](E:\FPGA_study\github\vscode_verilog\image\yanshi2.png)
+![yanshi2](.\image\yanshi2.png)
 
 然后点击"Add Signals"，双击需要添加的信号即可
 
-![yanshi3](E:\FPGA_study\github\vscode_verilog\image\yanshi3.png)
+![yanshi3](.\image\yanshi3.png)
 
 滑动滚轮是调节x轴缩放，y轴的缩放以及信号的颜色在此处调整
 
-![yanshi4](E:\FPGA_study\github\vscode_verilog\image\yanshi4.png)
+![yanshi4](.\image\yanshi4.png)
 
 ## 那么你已经学会使用vscode进行波形仿真了！~~妈妈再也不用担心我电脑存储空间不够没法安装vivado了~~
 
